@@ -1,9 +1,7 @@
 #include <iostream>
 
-int main() 
+int main()
 {
-    int x=9;
-    x+=5;
-    
-  std::cout << "Hello World!  "<<x<<"\n";
+    std::cout << "Hello, world!\n";
+    return 0;sdfgd
 }
